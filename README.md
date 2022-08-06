@@ -15,6 +15,7 @@ Projeto desenvolvido a partir da imersão realizada pela Rocketseat Education
 ## Ambiente de Desenvolvimento
 
 ```
+npm install
 npm run dev
 ```
 
