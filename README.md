@@ -10,9 +10,7 @@ Projeto desenvolvido a partir da imersão realizada pela Rocketseat Education
 
 ## Prerequisites
 
-```
-Instalar [node.js](https://nodejs.org/)
-```
+* Instalar [node.js](https://nodejs.org/)
 
 ## Ambiente de Desenvolvimento
 
