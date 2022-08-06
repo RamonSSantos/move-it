@@ -10,11 +10,11 @@ export default function () {
   return (
     <div className={styles.profileContainer}>
       <img
-        src="https://avatars.githubusercontent.com/u/88512539?v=4"
-        alt="Felipe"
+        src="https://avatars.githubusercontent.com/u/53453790?v=4"
+        alt="Ramon Santos"
       />
       <div>
-        <strong>Felipe</strong>
+        <strong>Ramon Santos</strong>
         <p>
           <img src="/icons/level.svg" alt="Level" />
           Level {level}
